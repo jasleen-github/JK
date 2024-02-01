@@ -1,3 +1,1 @@
-MY INITIALS: JK
-COURSE CODE: INFO5146
-YEAR: 2024
+<!-- This is the develop Branch -->
